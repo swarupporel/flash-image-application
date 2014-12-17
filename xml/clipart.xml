@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<galeria>
+	<item>
+		<title>Picture Number 01</title>
+		<thumb>clipart/big/sample_01.jpg</thumb>
+		<image>clipart/small/sample_01.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+	<item>
+		<title>Picture Number 02</title>
+		<thumb>clipart/big/sample_02.jpg</thumb>
+		<image>clipart/small/sample_02.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+	<item>
+		<title>Picture Number 03</title>
+		<thumb>clipart/big/sample_03.jpg</thumb>
+		<image>clipart/small/sample_03.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+	<item>
+		<title>Picture Number 04</title>
+		<thumb>clipart/big/sample_04.jpg</thumb>
+		<image>clipart/small/sample_04.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+	<item>
+		<title>Picture Number 05</title>
+		<thumb>clipart/big/sample_05.jpg</thumb>
+		<image>clipart/small/sample_05.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+	<item>
+		<title>Picture Number 06</title>
+		<thumb>clipart/big/sample_06.jpg</thumb>
+		<image>clipart/small/sample_06.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+	<item>
+		<title>Picture Number 07</title>
+		<thumb>clipart/big/sample_07.jpg</thumb>
+		<image>clipart/small/sample_07.png</image>
+		<infos>This is info</infos>
+		<description>This is Description</description>
+	</item>
+</galeria>

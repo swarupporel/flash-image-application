@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<dropDown>
+	<dNum>3</dNum>
+	<dText><b>Select Font</b></dText>
+	
+	<ddown>
+		<dID>1</dID>
+		<dText>Impact</dText>
+		<dLink>Impact</dLink>
+	</ddown>
+	
+	<ddown>
+		<dID>2</dID>
+		<dText>Comic Sans MS</dText>
+		<dLink>Comic_Sans_MS</dLink>
+	</ddown>
+	
+	<ddown>
+		<dID>2</dID>
+		<dText>Webdings</dText>
+		<dLink>webdings</dLink>
+	</ddown>
+	
+</dropDown>
